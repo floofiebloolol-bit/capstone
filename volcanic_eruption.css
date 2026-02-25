@@ -1,0 +1,201 @@
+#cli{
+    border: 4px solid;
+    border-color: #7e2c40;
+    border-radius: 15px;
+    font-family:monospace;
+    font-size: 50;
+    width: 1200;
+    height: 60;
+    border-width: 10;
+    background: #7e2c40;
+    color: white;
+    margin-top: 20px;
+    margin-right: 550px;
+    margin-left: 15;
+    margin-top: 45px;
+    font-weight: 900;
+    text-align: center;
+    white-space: nowrap;
+
+    position: absolute;
+
+}
+
+#cl{
+    border: 4px solid;
+    border-radius: 15px;
+
+opacity: 0;
+    position: relative;
+    top: 140;
+}
+
+
+
+body{
+    background-color:#cb505e;
+    background-image: url(geometric-intersection.png);
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+
+h1{ 
+    border: 4px solid;
+    border-color: #7e2c40;
+    border-radius: 15px;
+    font-family:monospace;
+    font-size: 50;
+    width: 1200;
+    height: 60;
+    background: #7e2c40;
+    color: white;
+    margin-top: 20px;
+    margin-right: 550px;
+    margin-left: 15;
+    margin-bottom: 45px;
+    margin-top: 45px;
+    font-weight: 900;
+    text-align: center;
+    white-space: nowrap;
+
+}
+
+#ty{border: 10px solid; border-color: #7e2c40; border-radius: 20px;}
+
+#want{    
+    
+    border: 4px solid;
+    border-color: #7e2c40;
+    border-radius: 15px;
+    font-family:monospace;
+    font-size: 50;
+    width: 1200;
+    height: 60;
+    background: #7e2c40;
+    color: white;
+    margin-top: 20px;
+    margin-right: 550px;
+    margin-left: 15;
+    margin-bottom: 45px;
+    margin-top: 45px;
+    font-weight: 900;
+    text-align: center;
+    white-space: nowrap;
+}
+
+#typhoon{
+    border-radius: 20px; 
+    border: 10px solid;  
+    width: 300px; 
+    height: 250px; 
+    border-color: #5c98bf; 
+    margin-left: 52px;
+
+    position: absolute;
+
+    top: 960px;
+    left: 214px;
+}
+
+#earthquake{
+    border-radius: 20px; 
+    border: 10px solid;  
+    width: 300px; 
+    height: 250px; 
+    border-color: #ddc56f; 
+    margin-left: 70px;
+
+    position: absolute;
+
+    top: 960px;
+    left: 613px;
+
+}
+
+#typ{
+    border: 10px solid;
+    border-color: #234a72;
+    border-radius: 7px;
+    font-family:monospace;
+    font-size: 37;
+    width: 330;
+    height: 45;
+    background: #234a72;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 237px;
+    font-weight: 900;
+    display: inline-block;
+
+    position: absolute;
+
+    top: 830px;
+}
+
+#ear{
+    border: 10px solid;
+    border-color: #96573d;
+    border-radius: 7px;
+    font-family:monospace;
+    font-size: 37;
+    width: 330;
+    height: 45;
+    background: #96573d;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 656px;
+    font-weight: 900;
+    display: inline-block;
+
+    position: absolute;
+
+    top: 830px;
+}
+
+#box1{
+
+    border: 10px solid;
+    border-radius: 15px;
+    width: 360;
+    height: 405;
+    border-color: #183d63;
+    background: #3f72a6;
+    
+    position: absolute;
+    left: 235px;
+    
+    }
+
+    #box2{
+
+        border: 10px solid;
+        border-radius: 15px;
+        width: 360;
+        height: 405;
+        border-color: #824930;
+        background: #cb9759;
+        
+        position: absolute;
+        left: 654px;
+        
+        }
+
+#box4{
+
+            border: 10px solid;
+            border-radius: 15px;
+            width: 360;
+            height: 410;
+           
+            left: 853px;
+            top: 60;
+
+            opacity: 0;
+            
+            }    
